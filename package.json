@@ -4,8 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "nodemon server/index.js",
-    "start:server": "node server/index.js"
+    "start": "nodemon server/index.js"
   },
   "dependencies": {
     "cors": "2.8.5",
